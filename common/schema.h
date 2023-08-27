@@ -421,6 +421,8 @@ namespace swss {
 #define CFG_FLOW_COUNTER_ROUTE_PATTERN_TABLE_NAME   "FLOW_COUNTER_ROUTE_PATTERN"
 #define CFG_LOGGER_TABLE_NAME                       "LOGGER"
 
+#define CFG_TX_MON_TABLE_NAME                       "TX_MONITOR"
+
 /***** STATE DATABASE *****/
 
 #define STATE_SWITCH_CAPABILITY_TABLE_NAME          "SWITCH_CAPABILITY_TABLE"
@@ -491,6 +493,8 @@ namespace swss {
 #define STATE_FLOW_COUNTER_CAPABILITY_TABLE_NAME    "FLOW_COUNTER_CAPABILITY_TABLE"
 
 #define STATE_VNET_MONITOR_TABLE_NAME               "VNET_MONITOR_TABLE"
+
+#define STATE_TX_MONITOR_TABLE_NAME                 "TX_MONITOR_TABLE"
 
 // ACL table and ACL rule table
 #define STATE_ACL_TABLE_TABLE_NAME                  "ACL_TABLE_TABLE"
